@@ -1,5 +1,5 @@
 <div align="center">
-<img align="right" height="150" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"  />
+<img align="center" height="150" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"  />
 </div>
 <h2 align="left">Hi 👋! My name is Kevin Duran Bruno and I'm a Tech Nerd💻, from Dominican Republic 🇩🇴</h2>
 
