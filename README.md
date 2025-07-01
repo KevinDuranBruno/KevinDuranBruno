@@ -4,9 +4,17 @@
 
 ###
 <div align="center">
-<img align="center" height="150" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"  />
-</div><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0sxqCDYcqB4RlSUZKQEpnz?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<img align="left" height="150" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"  />
+<br clear="both">
 
+<div align="right">
+  <a href="https://open.spotify.com/user/31w6sfodg2c5tnbfuef3juaxkk2m">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w6sfodg2c5tnbfuef3juaxkk2m&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+</div>
+
+###
 
 
 
@@ -83,7 +91,6 @@
 <h1 align="center">Contact✉</h1>
 
 ###
-<script src="https://open.spotify.com/embed/iframe-api/v1" async></script>
 <div align="left">
   <a href="https://www.linkedin.com/in/kevinduranbruno/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
