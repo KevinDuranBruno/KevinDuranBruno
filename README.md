@@ -3,15 +3,11 @@
 <p align="left">I'm a passionate technologist and software developer 👩‍💻 with hands-on experience in Kotlin, C#, and Java. From a young age, I’ve seen technology not just as a tool but as a gateway to innovation, empowering people 💪 and transforming processes across industries ⚙.<br><br>I specialize in designing ✏ and building efficient, scalable systems, and I've contributed to projects that sharpened my skills in software architecture😵, system performance, and modern application design. Beyond traditional development, I'm deeply curious about emerging technologies like artificial intelligence, automation, and data-driven platforms.</p>
 
 ###
-<div align="center">
-<img align="left" height="150" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"  />
-<br clear="both">
-
 <div align="right">
+  <img align="left" height="150" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"  />
   <a href="https://open.spotify.com/user/31w6sfodg2c5tnbfuef3juaxkk2m">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w6sfodg2c5tnbfuef3juaxkk2m&count=3" alt="Spotify recently played"  />
   </a>
-</div>
 </div>
 
 ###
@@ -83,8 +79,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinDuranBruno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinDuranBruno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
