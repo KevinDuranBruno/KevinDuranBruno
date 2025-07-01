@@ -9,6 +9,8 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"  />
 
+
+###
 <h1 align="center">Skills🔧</h1>
 
 ###
@@ -95,7 +97,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KevinDuranBruno/KevinDuranBruno/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KevinDuranBruno/KevinDuranBruno/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -107,10 +109,4 @@
 
 ###
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KevinDuranBruno/KevinDuranBruno/output/snake.svg" alt="Snake animation" />
-
-###
