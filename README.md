@@ -1,13 +1,15 @@
-<div align="center">
-<img align="center" height="150" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"  />
-</div>
 <h2 align="left">Hi 👋! My name is Kevin Duran Bruno and I'm a Tech Nerd💻, from Dominican Republic 🇩🇴</h2>
-
-###
 
 <p align="left">I'm a passionate technologist and software developer 👩‍💻 with hands-on experience in Kotlin, C#, and Java. From a young age, I’ve seen technology not just as a tool but as a gateway to innovation, empowering people 💪 and transforming processes across industries ⚙.<br><br>I specialize in designing ✏ and building efficient, scalable systems, and I've contributed to projects that sharpened my skills in software architecture😵, system performance, and modern application design. Beyond traditional development, I'm deeply curious about emerging technologies like artificial intelligence, automation, and data-driven platforms.</p>
 
 ###
+<div align="center">
+<img align="center" height="150" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"  />
+</div><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0sxqCDYcqB4RlSUZKQEpnz?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+
 
 
 
@@ -66,11 +68,22 @@
 </div>
 
 ###
-
-<h1 align="center">Contact✉</h1>
+<h1 align="center">Stats📋</h1>
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinDuranBruno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinDuranBruno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+<h1 align="center">Contact✉</h1>
+
+###
+<script src="https://open.spotify.com/embed/iframe-api/v1" async></script>
 <div align="left">
   <a href="https://www.linkedin.com/in/kevinduranbruno/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -85,6 +98,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-
+<br>
+<br><br>
+<br>
+<div align="center">
+<img align="center" height="50" src="https://66.media.tumblr.com/
+aa2317e91c92b7216475cab9bee4d799/tumblr_mwyd9cxm901rfjowdo1_500.gif"  />
+</div>
 
