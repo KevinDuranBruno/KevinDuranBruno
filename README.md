@@ -1,97 +1,112 @@
-<h2 align="left">Hi 👋! My name is Kevin Duran Bruno and I'm a Tech Nerd💻, from Dominican Republic 🇩🇴</h2>
+<div align="center">
 
-<p align="left">I'm a passionate technologist and software developer 👩‍💻 with hands-on experience in Kotlin, C#, and Java. From a young age, I’ve seen technology not just as a tool but as a gateway to innovation, empowering people 💪 and transforming processes across industries ⚙.<br><br>I specialize in designing ✏ and building efficient, scalable systems, and I've contributed to projects that sharpened my skills in software architecture😵, system performance, and modern application design. Beyond traditional development, I'm deeply curious about emerging technologies like artificial intelligence, automation, and data-driven platforms.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kevin%20Duran%20Bruno&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Nerd%20%7C%20🇩🇴&descAlignY=55&descSize=18" />
 
-###
-<div align="right">
-  <img align="left" height="150" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"  />
-  <a href="https://open.spotify.com/user/31w6sfodg2c5tnbfuef3juaxkk2m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w6sfodg2c5tnbfuef3juaxkk2m&count=3" alt="Spotify recently played"  />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+systems+that+scale+%F0%9F%9A%80;Kotlin+%7C+C%23+%7C+Java+%7C+Python;Obsessed+with+clean+architecture+%F0%9F%A7%AC;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=KevinDuranBruno&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/KevinDuranBruno?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/KevinDuranBruno)
+
 </div>
 
-###
+---
 
+<img align="right" height="170" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif" />
 
+## `$ whoami`
 
+```bash
+> Kevin Duran Bruno — Dominican Republic 🇩🇴
+> Role      : Software Developer & Systems Architect
+> Stack     : Kotlin · C# · Java · Python · .NET
+> Cloud     : Azure · Google Cloud
+> Focus     : Scalable systems, clean code, real impact
+> Status    : Always building something 🔨
+```
 
+> *"Technology is not just a tool — it's a gateway to transforming everything around us."*
 
+<br clear="right"/>
 
+---
 
-###
-<h1 align="center">Skills🔧</h1>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-</div>
-
-###
-<h1 align="center">Stats📋</h1>
-
-###
+## `$ cat /skills/stack.json`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinDuranBruno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinDuranBruno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+### 🖥️ Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ Frameworks & Platforms
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnetcore&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
+---
 
-###
-<h1 align="center">Contact✉</h1>
+## `$ git log --stats`
 
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/kevinduranbruno/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/duranbrunokevin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="duranbrunokevin@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-<br>
-<br><br>
-<br>
 <div align="center">
-<img align="center" height="50" src="https://66.media.tumblr.com/
-aa2317e91c92b7216475cab9bee4d799/tumblr_mwyd9cxm901rfjowdo1_500.gif"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=KevinDuranBruno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=12&order=1" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinDuranBruno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12&order=2" height="160" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KevinDuranBruno&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" height="160" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinDuranBruno&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
+
 </div>
 
+---
+
+## `$ tail -f /dev/currently_playing`
+
+<div align="center">
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31w6sfodg2c5tnbfuef3juaxkk2m&count=3&unique=true)](https://open.spotify.com/user/31w6sfodg2c5tnbfuef3juaxkk2m)
+
+</div>
+
+---
+
+## `$ ssh contact@kevinduran.dev`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinduranbruno/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duranbrunokevin/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duranbrunokevin@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+*— Crafted with obsession from the Dominican Republic 🇩🇴 —*
+
+</div>
