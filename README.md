@@ -1,86 +1,145 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kevin%20Duran%20Bruno&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Nerd%20%7C%20🇩🇴&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0533&height=20&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+systems+that+scale+%F0%9F%9A%80;Kotlin+%7C+C%23+%7C+Java+%7C+Python;Obsessed+with+clean+architecture+%F0%9F%A7%AC;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
+```
+██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗    ██████╗ ██╗   ██╗██████╗  █████╗ ███╗   ██╗
+██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║    ██╔══██╗██║   ██║██╔══██╗██╔══██╗████╗  ██║
+█████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║    ██║  ██║██║   ██║██████╔╝███████║██╔██╗ ██║
+██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║    ██║  ██║██║   ██║██╔══██╗██╔══██║██║╚██╗██║
+██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║    ██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=%E2%96%BA+PRESS+START+TO+VIEW+PROFILE+%E2%97%84;%E2%96%BA+LOADING+CHARACTER+DATA...+%E2%97%84;%E2%96%BA+PLAYER+1+HAS+ENTERED+%E2%97%84" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=KevinDuranBruno&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/KevinDuranBruno?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/KevinDuranBruno)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d0d&height=20&section=footer" width="100%"/>
 
 </div>
 
+<br>
+
 ---
 
-<img align="right" height="170" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif" />
+## ⚔️ `[ CHARACTER SELECT ]`
 
-## `$ whoami`
+<img align="right" width="180" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"/>
 
-```bash
-> Kevin Duran Bruno — Dominican Republic 🇩🇴
-> Role      : Software Developer & Systems Architect
-> Stack     : Kotlin · C# · Java · Python · .NET
-> Cloud     : Azure · Google Cloud
-> Focus     : Scalable systems, clean code, real impact
-> Status    : Always building something 🔨
+```rpg
+╔══════════════════════════════════════╗
+║        PLAYER PROFILE CARD           ║
+╠══════════════════════════════════════╣
+║  NAME   : Kevin Duran Bruno          ║
+║  CLASS  : Full-Stack Architect 🧙‍♂️    ║
+║  ORIGIN : Dominican Republic 🇩🇴      ║
+║  LEVEL  : ██████████░░  LVL 24       ║
+║  ALIGN  : Chaotic Builder            ║
+╠══════════════════════════════════════╣
+║  HP     : ████████████  MAX          ║
+║  MP     : ███████████░  HIGH         ║
+║  XP     : Always grinding... ⚡       ║
+╚══════════════════════════════════════╝
 ```
-
-> *"Technology is not just a tool — it's a gateway to transforming everything around us."*
 
 <br clear="right"/>
 
 ---
 
-## `$ cat /skills/stack.json`
+## 📊 `[ ATTRIBUTE STATS ]`
+
+```
+STR  [ Backend Dev     ]  ████████████████░░░░  80/100
+INT  [ Architecture    ]  ███████████████████░  95/100
+DEX  [ Problem Solving ]  ██████████████████░░  90/100
+WIS  [ System Design   ]  █████████████████░░░  85/100
+CHA  [ Collaboration   ]  ████████████████░░░░  80/100
+LCK  [ Cloud & DevOps  ]  ██████████████░░░░░░  70/100
+```
+
+---
+
+## 🧙 `[ SKILL TREE ]`
 
 <div align="center">
 
-### 🖥️ Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+### ⚔️ Primary Class — Languages
+![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙️ Frameworks & Platforms
+### 🛡️ Secondary Class — Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnetcore&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_CORE-512BD4?style=for-the-badge&logo=dotnetcore&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/JETPACK_COMPOSE-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🌩️ Magic School — Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 
 </div>
 
 ---
 
-## `$ git log --stats`
+## 📜 `[ QUEST LOG ]`
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  ★  ACTIVE QUESTS                                        ║
+╠══════════════════════════════════════════════════════════╣
+║  [IN PROGRESS] Build scalable distributed systems        ║
+║  [IN PROGRESS] Master cloud-native architecture          ║
+║  [IN PROGRESS] Explore AI & automation frontiers 🤖      ║
+╠══════════════════════════════════════════════════════════╣
+║  ✔  COMPLETED QUESTS                                     ║
+╠══════════════════════════════════════════════════════════╣
+║  [DONE] ✅  Backend systems with C# & .NET               ║
+║  [DONE] ✅  Android apps with Kotlin & Jetpack Compose   ║
+║  [DONE] ✅  Cloud deployments on Azure & GCP             ║
+║  [DONE] ✅  Survive countless debugging sessions 🐛       ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏆 `[ ACHIEVEMENTS UNLOCKED ]`
+
+```
+ 🏅  [UNLOCKED]  "Code Whisperer"    — Kotlin & Java master
+ 🏅  [UNLOCKED]  "Cloud Walker"      — Azure + GCP deployed
+ 🏅  [UNLOCKED]  "The Architect"     — Scalable system design
+ 🏅  [UNLOCKED]  "Island Dev"        — Building from 🇩🇴 to the world
+ 🔒  [LOCKED]    "Open Source Hero"  — ??? contributions needed
+ 🔒  [LOCKED]    "1K Followers"      — Keep grinding...
+```
+
+---
+
+## 📈 `[ EXP BOARD / STATS ]`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KevinDuranBruno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=12&order=1" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinDuranBruno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12&order=2" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=KevinDuranBruno&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&title_color=9b59b6&icon_color=e74c3c&text_color=ffffff&bg_color=0d0d0d" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinDuranBruno&layout=compact&theme=radical&hide_border=true&border_radius=10&title_color=9b59b6&text_color=ffffff&bg_color=0d0d0d&langs_count=6" height="165"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KevinDuranBruno&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KevinDuranBruno&theme=radical&hide_border=true&border_radius=10&background=0d0d0d&ring=9b59b6&fire=e74c3c&currStreakLabel=9b59b6" height="165"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinDuranBruno&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinDuranBruno&bg_color=0d0d0d&color=9b59b6&line=7c3aed&point=e74c3c&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## `$ tail -f /dev/currently_playing`
+## 🎵 `[ NOW PLAYING — BGM ]`
 
 <div align="center">
 
@@ -90,14 +149,14 @@
 
 ---
 
-## `$ ssh contact@kevinduran.dev`
+## 📡 `[ SEND MESSAGE TO PLAYER ]`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinduranbruno/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duranbrunokevin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duranbrunokevin@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinduranbruno/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duranbrunokevin/)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duranbrunokevin@gmail.com)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 </div>
 
@@ -105,8 +164,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+```
+ ╔══════════════════════════════════════╗
+ ║   GAME OVER?   NO — CONTINUE...  ▶  ║
+ ║        Thanks for visiting!          ║
+ ║    Made with ❤️  from 🇩🇴 + ☕ + 💻   ║
+ ╚══════════════════════════════════════╝
+```
 
-*— Crafted with obsession from the Dominican Republic 🇩🇴 —*
+![Profile Views](https://komarev.com/ghpvc/?username=KevinDuranBruno&style=pixel&color=7c3aed&label=VISITORS+SINCE+START)
 
 </div>
