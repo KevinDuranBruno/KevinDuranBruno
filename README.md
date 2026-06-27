@@ -1,299 +1,195 @@
 <div align="center">
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     HERO: Retrowave Cathedral Landscape
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="./hero_landscape.png" width="100%"/>
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     NAME: Perfect typing animation (no image text)
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=F5F5F5&center=true&vCenter=true&width=800&lines=KEVIN+DURAN+BRUNO"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&pause=800&color=888888&center=true&vCenter=true&width=600&lines=%2F%2F%2F+FULL-STACK+ARCHITECT+%2F%2F%2F+DOMINICAN+REPUBLIC+%2F%2F%2F"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=16&pause=600&color=555555&center=true&vCenter=true&width=700&lines=%3E%3E%3E+boot+--renaissance+--retrowave;%3E%3E%3E+Loading+divine+protocols...;%3E%3E%3E+System+ready.+Welcome,+Architect."/>
-
-<pre>
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  XP  ████████████████████████████████████████░░░░  72%  LVL 24         ║
-║  HP  ██████████████████████████████████████████  MAX                   ║
-║  MP  ██████████████████████████████████████░░░░░  85%                 ║
-║  CAF ██████████████████████████████████████████  ∞                    ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-</pre>
-</div>
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     SECTION: La Creazione — ASCII Art Masterpiece
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+L+A+++C+R+E+A+Z+I+O+N+E+++D+I+G+I+T+A+L+E+☩"/>
-
-
-<img src="./creation_ascii.png" width="100%"/>
-
-<pre>
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║     "AND THE DIVINE SPARK OF CREATION REACHED THE ARCHITECT..."          ║
-║                                                                           ║
-║              [ DIVINE ]  ←── ✦ ──→  [ MORTAL ]                          ║
-║              Cloud/AI         The Spark        Kevin Duran Bruno          ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-</pre>
-</div>
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     SECTION: Vitruvian Globe — ASCII Animated World
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+T+H+E+++V+I+R+T+U+V+I+A+N+++G+L+O+B+E+☩"/>
-
-
-<pre style="line-height: 1;">
-                      ████████████
-                  ████▓▓▓▓▓▓▓▓▓▓▓▓████
-                ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-              ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-            ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-          ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-         ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-        ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-       ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-       ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-       ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-       ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-        ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-         ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-          ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-            ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███
-              ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓████
-                ████▓▓▓▓▓▓▓▓▓▓▓▓████
-                    ████████████
-</pre>
-
-<pre>
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║  ☩ KEVIN DURAN BRUNO ☩                                                   ║
-║  ┌─────────────────────────────────────────────────────────────────┐     ║
-║  │  ORIGIN    │ Dominican Republic 🇩🇴                              │     ║
-║  │  CLASS     │ Full-Stack Architect                               │     ║
-║  │  ALIGNMENT │ Chaotic Builder                                    │     ║
-║  │  FOCUS     │ Backend · Cloud · AI · Distributed Systems         │     ║
-║  │  STATUS    │ Architecting digital cathedrals                    │     ║
-║  └─────────────────────────────────────────────────────────────────┘     ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-</pre>
-</div>
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     SECTION: Statue of David — Skill Matrix
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+S+T+A+T+U+E+++O+F+++D+A+V+I+D++—++S+K+I+L+L+S+☩"/>
-
-
-</div>
-<pre>
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:7c3aed,100:0d0d0d&height=150&section=header&text=&fontSize=0" width="100%"/>
+<!-- ASCII Name Banner -->
+<pre style="background: transparent;">
 ╔══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                  ║
-║   SYSTEM ARCHITECTURE    ████████████████████████████████████░░░  95/100       ║
-║   BACKEND ENGINEERING    █████████████████████████████████░░░░  92/100       ║
-║   PROBLEM SOLVING        ████████████████████████████████████░  96/100       ║
-║   DATABASE DESIGN        ████████████████████████████████░░░░  85/100       ║
-║   CLOUD & DEVOPS         ███████████████████████████░░░░░░░░░  78/100       ║
-║   FRONTEND CRAFT         ████████████████████████░░░░░░░░░░░░  72/100       ║
-║   MOBILE DEVELOPMENT     ████████████████████████░░░░░░░░░░░░  70/100       ║
-║                                                                                  ║
+║  ██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗    ██████╗ ██╗   ██╗██████╗  █████╗   ║
+║  ██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║    ██╔══██╗██║   ██║██╔══██╗██╔══██╗  ║
+║  █████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║    ██║  ██║██║   ██║██████╔╝███████║  ║
+║  ██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║    ██║  ██║██║   ██║██╔══██╗██╔══██║  ║
+║  ██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║    ██████╔╝╚██████╔╝██║  ██║██║  ██║  ║
+║  ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ║
 ╠══════════════════════════════════════════════════════════════════════════════════╣
-║   "Every block of stone has a statue inside it" — Michelangelo                   ║
-║   "Every codebase has an architecture inside it" — Kevin Duran Bruno             ║
+║              ⚡ F U L L - S T A C K   A R C H I T E C T ⚡                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 </pre>
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     SECTION: The Great Cathedral — Tech Arsenal
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+T+H+E+++G+R+E+A+T+++C+A+T+H+E+D+R+A+L+☩"/>
-
-
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=dotnet+run+--project+Life.csproj;docker-compose+up+-d+ambition;kubectl+apply+-f+dreams.yaml;git+commit+-m+'init:+journey+begins'" alt="Typing Animation"/>
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:7c3aed,100:1a0533&height=3&section=header" width="100%"/>
 </div>
+
+👤 IDENTITY CARD
+<table>
+<tr>
+<td width="60%">
+yaml
+player:
+  name: "Kevin Duran Bruno"
+  origin: "Dominican Republic 🇩🇴"
+  title: "Full-Stack Architect"
+  alignment: "Chaotic Builder"
+  level: 24
+  
+stats:
+  caffeine_tolerance: 99
+  debug_patience: LEGENDARY
+  git_commits: "∞"
+  
+buff:
+  - "☕ Coffee IV Drip"
+  - "🎵 Lo-fi Beats"
+  - "🌙 Night Owl Mode"
+</td>
+<td width="40%" align="center">
+<!-- Animated character/coder GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #7c3aed;"/>
+
+
+<!-- Level Bar -->
 <pre>
-╔═══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                           ║
-║  ┌────────────────────────┐  ┌────────────────────────┐  ┌────────────────────────┐      ║
-║  │   ⚔️ HIGH TONGUES     │  │   🛡️ DIVINE ARMOR     │  │   ☁️ AETHER INFRA     │      ║
-║  ├────────────────────────┤  ├────────────────────────┤  ├────────────────────────┤      ║
-║  │  C# / .NET             │  │  ASP.NET Core          │  │  Azure                 │      ║
-║  │  Kotlin                │  │  Blazor                │  │  Google Cloud          │      ║
-║  │  Go                    │  │  Jetpack Compose       │  │  Docker                │      ║
-║  │  Python                │  │  React                 │  │  Kubernetes            │      ║
-║  │  Java                  │  │  Tailwind CSS          │  │  Linux                 │      ║
-║  │                        │  │                        │  │  Git / CI·CD           │      ║
-║  └────────────────────────┘  └────────────────────────┘  └────────────────────────┘      ║
-║                                                                                           ║
-║  ┌────────────────────────┐  ┌──────────────────────────────────────────────────┐      ║
-║  │   🗄️ RELICS OF DATA   │  │   📜 SCROLLS OF WISDOM                          │      ║
-║  ├────────────────────────┤  ├──────────────────────────────────────────────────┤      ║
-║  │  PostgreSQL            │  │  Distributed Systems Architecture                │      ║
-║  │  MySQL                 │  │  Microservices Design Patterns                   │      ║
-║  │  MongoDB               │  │  Cloud-Native Development                        │      ║
-║  │  Redis                 │  │  Event-Driven Architecture                       │      ║
-║  │  Entity Framework      │  │  API Design (REST · gRPC · GraphQL)             │      ║
-║  │                        │  │  Test-Driven Development                         │      ║
-║  └────────────────────────┘  └──────────────────────────────────────────────────┘      ║
-║                                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────┐
+│  XP ████████████░░░░░░  60%  │
+│  HP ██████████████████  MAX  │
+│  MP ████████████████░░  88%  │
+└──────────────────────────────┘
 </pre>
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     SECTION: The Last Judgment — Quests
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+</td>
+</tr>
+</table>
+📊 ATTRIBUTE MATRIX
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│  <b>CORE COMPETENCIES</b>                                          │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Backend Architecture    ████████████████████░░░░░  92/100   │
+│  System Design           ███████████████████░░░░░░  88/100   │
+│  Cloud & DevOps          ████████████████░░░░░░░░░  78/100   │
+│  Frontend Engineering    ███████████████░░░░░░░░░░  72/100   │
+│  Mobile Development      ██████████████░░░░░░░░░░░  68/100   │
+│  Problem Solving         █████████████████████░░░░  95/100   │
+│                                                              │
+│  [<b>SPECIALIZATION</b>] Distributed Systems & Cloud-Native Arch   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
+⚔️ ARSENAL
+Primary Weapons
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
+</p>
+Frameworks & Runtime
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a2e" />
+</p>
+Infrastructure & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a2e" />
+</p>
+Data Layer
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e" />
+</p>
+🏗️ ACTIVE CAMPAIGNS
+<table>
+<tr>
+<td width="50%">
+🟢 Current Quests
+diff
++ Building scalable distributed systems
++ Mastering cloud-native architecture  
++ Exploring AI & automation frontiers
++ Learning advanced Go patterns
++ Contributing to open source
+</td>
+<td width="50%">
+✅ Completed Quests
+diff
++ Backend systems with C# & .NET ✅
++ Android apps with Kotlin & Compose ✅
++ Cloud deployments on Azure & GCP ✅
++ REST & gRPC API design ✅
++ Survived countless debugging wars ✅
++ CI/CD pipeline mastery ✅
+</td>
+</tr>
+</table>
+🏆 ACHIEVEMENT BADGES
+<p align="center">
+  <img src="https://img.shields.io/badge/🏅-Code_Whisperer-7C3AED?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🏅-Cloud_Walker-3B82F6?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🏅-The_Architect-8B5CF6?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🏅-Island_Dev-10B981?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🔒-Open_Source_Hero-6B7280?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🔒-Polyglot_God-6B7280?style=flat-square&labelColor=1a1a2e" />
+</p>
+📈 BATTLE STATS
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+T+H+E+++L+A+S+T+++J+U+D+G+M+E+N+T+—+Q+U+E+S+T+S+☩"/>
+<!-- GitHub Stats Row 1 -->
+<img src="https://github-readme-stats.vercel.app/api?username=KevinDuranBruno&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&title_color=7c3aed&icon_color=e74c3c&text_color=c9d1d9&bg_color=0d1117&custom_title=GitHub%20Battle%20Record" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinDuranBruno&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&langs_count=8&custom_title=Language%20Mastery" height="180"/>
 
 
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KevinDuranBruno&theme=midnight-purple&hide_border=true&border_radius=12&background=0D1117&ring=7c3aed&fire=e74c3c&currStreakLabel=7c3aed&sideLabels=c9d1d9&currStreakNum=e74c3c&sideNums=7c3aed&dates=8b949e" height="180"/>
+
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinDuranBruno&bg_color=0d1117&color=7c3aed&line=7c3aed&point=e74c3c&area=true&hide_border=true&radius=12&custom_title=Contribution%20Heatmap" width="100%"/>
 </div>
-<pre>
-╔═══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                           ║
-║  ⚡ IN PROGRESS                                                                           ║
-║  ─────────────────────────────────────────────────────────────────────────────────────  ║
-║  ░▒▓█  Build scalable distributed systems                                               ║
-║  ░▒▓█  Master cloud-native architecture patterns                                        ║
-║  ░▒▓█  Explore AI & automation frontiers                                                ║
-║  ░▒▓█  Contribute to open source (unlocking "Open Source Hero")                        ║
-║  ░▒▓█  Deepen Go language mastery                                                       ║
-║                                                                                           ║
-╠═══════════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                           ║
-║  ✦ COMPLETED                                                                              ║
-║  ─────────────────────────────────────────────────────────────────────────────────────  ║
-║  ████  Backend systems with C# & .NET                                                   ║
-║  ████  Android apps with Kotlin & Jetpack Compose                                      ║
-║  ████  Cloud deployments on Azure & GCP                                                 ║
-║  ████  CI/CD pipeline mastery                                                           ║
-║  ████  Survived countless debugging wars ⚔                                              ║
-║                                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════╝
-</pre>
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     SECTION: Collector's Hall — Achievements
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+🎵 SOUNDTRACK
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+T+H+E+++C+O+L+L+E+C+T+O+R+S+++H+A+L+L+☩"/>
-
-
-<pre>
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║  🏆 Code Whisperer         ████████████████████████████████  UNLOCKED   ║
-║  🏆 Cloud Walker           ████████████████████████████████  UNLOCKED   ║
-║  🏆 The Architect          ████████████████████████████████  UNLOCKED   ║
-║  🏆 Island Dev             ████████████████████████████████  UNLOCKED   ║
-║                                                                           ║
-║  🔓 Open Source Hero       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  PROGRESS   ║
-║  🔓 1K Followers           ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  PROGRESS   ║
-║  🔓 Polyglot God           ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  LOCKED     ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-</pre>
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     GITHUB STATS — Monochrome Theme
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+C+H+R+O+N+I+C+L+E+++O+F++W+O+R+K+☩"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=KevinDuranBruno&show_icons=true&theme=graywhite&hide_border=true&border_radius=0&include_all_commits=true&count_private=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=333333&bg_color=f5f5f5&custom_title=%2F%2F%2F+BATTLE+RECORD" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinDuranBruno&layout=compact&theme=graywhite&hide_border=true&border_radius=0&title_color=1a1a1a&text_color=333333&bg_color=f5f5f5&langs_count=8&custom_title=%2F%2F%2F+LANGUAGE+MASTERY" height="170"/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KevinDuranBruno&theme=graywhite&hide_border=true&border_radius=0&background=F5F5F5&ring=1A1A1A&fire=333333&currStreakLabel=1A1A1A&sideLabels=1A1A1A&currStreakNum=1A1A1A&sideNums=1A1A1A&dates=888888" height="170"/>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+C+O+N+T+R+I+B+U+T+I+O+N+++T+I+M+E+L+I+N+E+☩"/>
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinDuranBruno&bg_color=f5f5f5&color=1a1a1a&line=1a1a1a&point=333333&area=true&hide_border=true&radius=0&custom_title=Contribution+Timeline" width="100%"/>
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     ANIMATED SNAKE
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+T+H+E+++S+E+R+P+E+N+T+++O+F+++C+O+N+T+R+I+B+U+T+I+O+N+S+☩"/>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     SPOTIFY
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+S+P+O+T+I+F+Y+++C+H+R+O+N+I+C+L+E+☩"/>
-
-
 https://open.spotify.com/user/31w6sfodg2c5tnbfuef3juaxkk2m
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     TROPHIES
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+H+A+L+L+++O+F+++T+R+O+P+H+I+E+S+☩"/>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=KevinDuranBruno&theme=oldie&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </div>
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     CONTACT — Communication Channels
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+📡 COMMUNICATION CHANNELS
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1500&color=F5F5F5&center=true&vCenter=true&width=700&lines=☩+C+O+M+M+U+N+I+C+A+T+I+O+N+++C+H+A+N+N+E+L+S+☩"/>
+https://www.linkedin.com/in/kevinduranbruno/
+https://www.instagram.com/duranbrunokevin/
+mailto:duranbrunokevin@gmail.com
+https://discord.com/channels/@me
+</div>
+<div align="center">
+<!-- Trophy Case -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinDuranBruno&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
-
-<a href="https://www.linkedin.com/in/kevinduranbruno/">
-  <img src="https://img.shields.io/badge/◆_LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://www.instagram.com/duranbrunokevin/">
-  <img src="https://img.shields.io/badge/◆_INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
-</a>
-<a href="mailto:duranbrunokevin@gmail.com">
-  <img src="https://img.shields.io/badge/◆_GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://discord.com/channels/@me">
-  <img src="https://img.shields.io/badge/◆_DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000"/>
-</a>
-
-
+<!-- Pixel Footer -->
 <pre>
-───────────────────────────────────────────────────────────────────────────────
-/ / / / / / / / / / / /  R E T R O W A V E   G R I D  / / / / / / / / / / / /
-───────────────────────────────────────────────────────────────────────────────
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║    ╔══════════════════════════════════════════════════════╗    ║
+║    ║   INSERT COIN TO CONTINUE...  🪙                   ║    ║
+║    ║                                                    ║    ║
+║    ║   > Made with ❤️ from 🇩🇴 + ☕ + 💻 + 🌙         ║    ║
+║    ║   > Always building. Always learning.              ║    ║
+║    ╚══════════════════════════════════════════════════════╝    ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 </pre>
 
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     FOOTER
-     ═══════════════════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=16&pause=700&color=888888&center=true&vCenter=true&width=900&lines=%22I+saw+the+angel+in+the+marble+and+carved+until+I+set+him+free.%22+—+Michelangelo;%22I+see+the+system+in+the+chaos+and+code+until+I+set+it+free.%22+—+Kevin+Duran+Bruno"/>
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=KevinDuranBruno&style=flat-square&color=7c3aed&label=PLAYERS&base=1000" />
 
 
-<pre>
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║              ⚡  INSERT COIN TO CONTINUE...  ⚡                           ║
-║                                                                           ║
-║         ☩ KEVIN DURAN BRUNO ☩  FULL-STACK ARCHITECT ☩                   ║
-║                                                                           ║
-║              Made with ❤️ from 🇩🇴 + ☕ + 🌙 + 💻                        ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-</pre>
-
-<img src="https://komarev.com/ghpvc/?username=KevinDuranBruno&style=flat-square&color=1a1a1a&label=PILGRIMS&base=1000"/>
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:7c3aed,100:0d0d0d&height=120&section=footer&text=&fontSize=0" width="100%"/>
 </div>
