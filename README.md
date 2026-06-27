@@ -1,19 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0533&height=20&section=header" width="100%"/>
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:7c3aed,100:0d0d0d&height=150&section=header&text=&fontSize=0" width="100%"/>
 
-```
-██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗    ██████╗ ██╗   ██╗██████╗  █████╗ ███╗   ██╗
-██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║    ██╔══██╗██║   ██║██╔══██╗██╔══██╗████╗  ██║
-█████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║    ██║  ██║██║   ██║██████╔╝███████║██╔██╗ ██║
-██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║    ██║  ██║██║   ██║██╔══██╗██╔══██║██║╚██╗██║
-██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║    ██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<!-- ASCII Name Banner -->
+<pre style="background: transparent;">
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  ██╗  ██╗███████╗██╗   ██╗██╗███╗   ██╗    ██████╗ ██╗   ██╗██████╗  █████╗   ║
+║  ██║ ██╔╝██╔════╝██║   ██║██║████╗  ██║    ██╔══██╗██║   ██║██╔══██╗██╔══██╗  ║
+║  █████╔╝ █████╗  ██║   ██║██║██╔██╗ ██║    ██║  ██║██║   ██║██████╔╝███████║  ║
+║  ██╔═██╗ ██╔══╝  ╚██╗ ██╔╝██║██║╚██╗██║    ██║  ██║██║   ██║██╔══██╗██╔══██║  ║
+║  ██║  ██╗███████╗ ╚████╔╝ ██║██║ ╚████║    ██████╔╝╚██████╔╝██║  ██║██║  ██║  ║
+║  ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ║
+╠══════════════════════════════════════════════════════════════════════════════════╣
+║              ⚡ F U L L - S T A C K   A R C H I T E C T ⚡                      ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=%E2%96%BA+PRESS+START+TO+VIEW+PROFILE+%E2%97%84;%E2%96%BA+LOADING+CHARACTER+DATA...+%E2%97%84;%E2%96%BA+PLAYER+1+HAS+ENTERED+%E2%97%84" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=dotnet+run+--project+Life.csproj;docker-compose+up+-d+ambition;kubectl+apply+-f+dreams.yaml;git+commit+-m+'init:+journey+begins'" alt="Typing Animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d0d&height=20&section=footer" width="100%"/>
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:7c3aed,100:1a0533&height=3&section=header" width="100%"/>
 
 </div>
 
@@ -21,157 +29,244 @@
 
 ---
 
-## ⚔️ `[ CHARACTER SELECT ]`
+## 👤 IDENTITY CARD
 
-<img align="right" width="180" src="https://i.pinimg.com/originals/c0/d3/8c/c0d38c518fdbf6012e0475bb7a0598a5.gif"/>
+<table>
+<tr>
+<td width="60%">
 
-```rpg
-╔══════════════════════════════════════╗
-║        PLAYER PROFILE CARD           ║
-╠══════════════════════════════════════╣
-║  NAME   : Kevin Duran Bruno          ║
-║  CLASS  : Full-Stack Architect 🧙‍♂️    ║
-║  ORIGIN : Dominican Republic 🇩🇴      ║
-║  LEVEL  : ██████████░░  LVL 24       ║
-║  ALIGN  : Chaotic Builder            ║
-╠══════════════════════════════════════╣
-║  HP     : ████████████  MAX          ║
-║  MP     : ███████████░  HIGH         ║
-║  XP     : Always grinding... ⚡       ║
-╚══════════════════════════════════════╝
+```yaml
+player:
+  name: "Kevin Duran Bruno"
+  origin: "Dominican Republic 🇩🇴"
+  title: "Full-Stack Architect"
+  alignment: "Chaotic Builder"
+  level: 24
+  
+stats:
+  caffeine_tolerance: 99
+  debug_patience: LEGENDARY
+  git_commits: "∞"
+  
+buff:
+  - "☕ Coffee IV Drip"
+  - "🎵 Lo-fi Beats"
+  - "🌙 Night Owl Mode"
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center">
+
+<!-- Animated character/coder GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #7c3aed;"/>
+
+<br><br>
+
+<!-- Level Bar -->
+<pre>
+┌──────────────────────────────┐
+│  XP ████████████░░░░░░  60%  │
+│  HP ██████████████████  MAX  │
+│  MP ████████████████░░  88%  │
+└──────────────────────────────┘
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 `[ ATTRIBUTE STATS ]`
+## 📊 ATTRIBUTE MATRIX
 
-```
-STR  [ Backend Dev     ]  ████████████████░░░░  80/100
-INT  [ Architecture    ]  ███████████████████░  95/100
-DEX  [ Problem Solving ]  ██████████████████░░  90/100
-WIS  [ System Design   ]  █████████████████░░░  85/100
-CHA  [ Collaboration   ]  ████████████████░░░░  80/100
-LCK  [ Cloud & DevOps  ]  ██████████████░░░░░░  70/100
-```
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│  <b>CORE COMPETENCIES</b>                                          │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Backend Architecture    ████████████████████░░░░░  92/100   │
+│  System Design           ███████████████████░░░░░░  88/100   │
+│  Cloud & DevOps          ████████████████░░░░░░░░░  78/100   │
+│  Frontend Engineering    ███████████████░░░░░░░░░░  72/100   │
+│  Mobile Development      ██████████████░░░░░░░░░░░  68/100   │
+│  Problem Solving         █████████████████████░░░░  95/100   │
+│                                                              │
+│  [<b>SPECIALIZATION</b>] Distributed Systems & Cloud-Native Arch   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
 ---
 
-## 🧙 `[ SKILL TREE ]`
+## ⚔️ ARSENAL
+
+### Primary Weapons
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
+</p>
+
+### Frameworks & Runtime
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a2e" />
+</p>
+
+### Infrastructure & DevOps
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a2e" />
+</p>
+
+### Data Layer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e" />
+</p>
+
+---
+
+## 🏗️ ACTIVE CAMPAIGNS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🟢 Current Quests
+
+```diff
++ Building scalable distributed systems
++ Mastering cloud-native architecture  
++ Exploring AI & automation frontiers
++ Learning advanced Go patterns
++ Contributing to open source
+```
+
+</td>
+<td width="50%">
+
+### ✅ Completed Quests
+
+```diff
++ Backend systems with C# & .NET ✅
++ Android apps with Kotlin & Compose ✅
++ Cloud deployments on Azure & GCP ✅
++ REST & gRPC API design ✅
++ Survived countless debugging wars ✅
++ CI/CD pipeline mastery ✅
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 ACHIEVEMENT BADGES
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏅-Code_Whisperer-7C3AED?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🏅-Cloud_Walker-3B82F6?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🏅-The_Architect-8B5CF6?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🏅-Island_Dev-10B981?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🔒-Open_Source_Hero-6B7280?style=flat-square&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/🔒-Polyglot_God-6B7280?style=flat-square&labelColor=1a1a2e" />
+</p>
+
+---
+
+## 📈 BATTLE STATS
 
 <div align="center">
 
-### ⚔️ Primary Class — Languages
-![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- GitHub Stats Row 1 -->
+<img src="https://github-readme-stats.vercel.app/api?username=KevinDuranBruno&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&title_color=7c3aed&icon_color=e74c3c&text_color=c9d1d9&bg_color=0d1117&custom_title=GitHub%20Battle%20Record" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinDuranBruno&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&langs_count=8&custom_title=Language%20Mastery" height="180"/>
 
-### 🛡️ Secondary Class — Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_CORE-512BD4?style=for-the-badge&logo=dotnetcore&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/JETPACK_COMPOSE-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br><br>
 
-### 🌩️ Magic School — Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KevinDuranBruno&theme=midnight-purple&hide_border=true&border_radius=12&background=0D1117&ring=7c3aed&fire=e74c3c&currStreakLabel=7c3aed&sideLabels=c9d1d9&currStreakNum=e74c3c&sideNums=7c3aed&dates=8b949e" height="180"/>
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinDuranBruno&bg_color=0d1117&color=7c3aed&line=7c3aed&point=e74c3c&area=true&hide_border=true&radius=12&custom_title=Contribution%20Heatmap" width="100%"/>
 
 </div>
 
 ---
 
-## 📜 `[ QUEST LOG ]`
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  ★  ACTIVE QUESTS                                        ║
-╠══════════════════════════════════════════════════════════╣
-║  [IN PROGRESS] Build scalable distributed systems        ║
-║  [IN PROGRESS] Master cloud-native architecture          ║
-║  [IN PROGRESS] Explore AI & automation frontiers 🤖      ║
-╠══════════════════════════════════════════════════════════╣
-║  ✔  COMPLETED QUESTS                                     ║
-╠══════════════════════════════════════════════════════════╣
-║  [DONE] ✅  Backend systems with C# & .NET               ║
-║  [DONE] ✅  Android apps with Kotlin & Jetpack Compose   ║
-║  [DONE] ✅  Cloud deployments on Azure & GCP             ║
-║  [DONE] ✅  Survive countless debugging sessions 🐛       ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🏆 `[ ACHIEVEMENTS UNLOCKED ]`
-
-```
- 🏅  [UNLOCKED]  "Code Whisperer"    — Kotlin & Java master
- 🏅  [UNLOCKED]  "Cloud Walker"      — Azure + GCP deployed
- 🏅  [UNLOCKED]  "The Architect"     — Scalable system design
- 🏅  [UNLOCKED]  "Island Dev"        — Building from 🇩🇴 to the world
- 🔒  [LOCKED]    "Open Source Hero"  — ??? contributions needed
- 🔒  [LOCKED]    "1K Followers"      — Keep grinding...
-```
-
----
-
-## 📈 `[ EXP BOARD / STATS ]`
+## 🎵 SOUNDTRACK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KevinDuranBruno&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&title_color=9b59b6&icon_color=e74c3c&text_color=ffffff&bg_color=0d0d0d" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinDuranBruno&layout=compact&theme=radical&hide_border=true&border_radius=10&title_color=9b59b6&text_color=ffffff&bg_color=0d0d0d&langs_count=6" height="165"/>
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31w6sfodg2c5tnbfuef3juaxkk2m&count=3&unique=true&width=500)](https://open.spotify.com/user/31w6sfodg2c5tnbfuef3juaxkk2m)
+
+</div>
+
+---
+
+## 📡 COMMUNICATION CHANNELS
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/kevinduranbruno/)
+[![Instagram](https://img.shields.io/badge/🔗_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e)](https://www.instagram.com/duranbrunokevin/)
+[![Gmail](https://img.shields.io/badge/🔗_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:duranbrunokevin@gmail.com)
+[![Discord](https://img.shields.io/badge/🔗_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e)](https://discord.com/channels/@me)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Trophy Case -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinDuranBruno&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KevinDuranBruno&theme=radical&hide_border=true&border_radius=10&background=0d0d0d&ring=9b59b6&fire=e74c3c&currStreakLabel=9b59b6" height="165"/>
+<!-- Pixel Footer -->
+<pre>
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║    ╔══════════════════════════════════════════════════════╗    ║
+║    ║   INSERT COIN TO CONTINUE...  🪙                   ║    ║
+║    ║                                                    ║    ║
+║    ║   > Made with ❤️ from 🇩🇴 + ☕ + 💻 + 🌙         ║    ║
+║    ║   > Always building. Always learning.              ║    ║
+║    ╚══════════════════════════════════════════════════════╝    ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+</pre>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinDuranBruno&bg_color=0d0d0d&color=9b59b6&line=7c3aed&point=e74c3c&area=true&hide_border=true" width="100%"/>
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=KevinDuranBruno&style=flat-square&color=7c3aed&label=PLAYERS&base=1000" />
 
-</div>
+<br><br>
 
----
-
-## 🎵 `[ NOW PLAYING — BGM ]`
-
-<div align="center">
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31w6sfodg2c5tnbfuef3juaxkk2m&count=3&unique=true)](https://open.spotify.com/user/31w6sfodg2c5tnbfuef3juaxkk2m)
-
-</div>
-
----
-
-## 📡 `[ SEND MESSAGE TO PLAYER ]`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinduranbruno/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duranbrunokevin/)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duranbrunokevin@gmail.com)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-
-</div>
-
----
-
-<div align="center">
-
-```
- ╔══════════════════════════════════════╗
- ║   GAME OVER?   NO — CONTINUE...  ▶  ║
- ║        Thanks for visiting!          ║
- ║    Made with ❤️  from 🇩🇴 + ☕ + 💻   ║
- ╚══════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=KevinDuranBruno&style=pixel&color=7c3aed&label=VISITORS+SINCE+START)
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:7c3aed,100:0d0d0d&height=120&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
